@@ -1,5 +1,5 @@
 class Palindrome:
-    def __init__(self):  # Corrected constructor
+    def __init__(self):
         self.stack = []
         self.queue = []
 
